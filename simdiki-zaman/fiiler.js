@@ -1,0 +1,22 @@
+module.exports = {
+  'beklemek ': 'to wait, to expect',
+  'yapmak ': 'to do, to make',
+  'yemek ': 'to eat',
+  'içmek ': 'to drink',
+  'sormak ': 'to ask',
+  'gitmek ': 'to go',
+  'gelmek ': 'to come',
+  'almak ': 'To get, buy, take',
+  'vermek ': 'to give',
+  'yazmak ': 'to write',
+  'bakmak ': 'to look at',
+  'istemek ': 'to want, to ask for',
+  'düşünmek ': 'to think, consider',
+  'söylemek ': 'to say',
+  'kullanmak ': 'to use',
+  'yürümek ': 'to walk',
+  'görmek ': 'to see',
+  'okumak ': 'to read',
+  'girmek ': 'to enter',
+  'çıkmak ': 'to leave/exit'
+};
