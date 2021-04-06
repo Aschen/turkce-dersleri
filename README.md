@@ -1,4 +1,4 @@
-# Turkish In Javascript
+# Türkçe Dersleri (Turkish lessons) 
 
 Some small programms used to learn turkish.
 
